@@ -34,3 +34,6 @@ __pycache__/
 /parts/
 /.cache/
 /.settings/
+
+.idea/
+venv/
